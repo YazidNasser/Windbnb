@@ -1,4 +1,4 @@
-## Windbnb_1
+## Windbnb
 
 Full‑stack Airbnb‑style listing app built with Next.js 13 (App Router for UI, Pages Router for NextAuth), Prisma with MongoDB, Tailwind CSS, and Cloudinary uploads.
 
